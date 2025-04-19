@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Catecholaminergic Manipulation of Large-Scale Network Dynamics is Tied to Reconfiguration of Corticostriatal Connectivity"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
