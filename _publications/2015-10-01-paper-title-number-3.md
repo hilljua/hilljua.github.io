@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'A common experience during sex trafficking is criminalization of victims, often for non-violent offenses related to survival. This paper demonstrates the tangible impact such crimalization has on health and recovery from trafficking.'
 date: 2022-07-01
 venue: 'UNESCO Working Paper Series'
-slidesurl: 'http://hilljua.github.io/files/slides3.pdf'
+slidesurl: 'http://hilljua.github.io/files/Criminalization-of-sex-trafficking-survivors-Implications-on-survivor-health.pdf'
 paperurl: 'http://hilljua.github.io/files/UNESCO_WP_Hill.pdf'
 citation: 'Hill, J. & Mullins, K. (2022). A Threat to Healing and a Barrier to Recovery: An Assessment of Health Impacts of Criminalization through the Stages of Domestic Sex Trafficking. UNESCO Working Paper Seriers 005-07-2022. 4W Initiative, University of Wisconsin-Madison.'
 ---
