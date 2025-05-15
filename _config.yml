@@ -80,8 +80,16 @@ publication_category:
   manuscripts:
 #    title: 'Journal Articles'    
     title: 'Journal Articles'
-#    title: 'In Progress'
+  inpress:
+    title: 'In Press'
+  inprogress:
+   title: 'In Progress'
 
+talk_category:
+  talks:
+    title: 'Oral Presentations'
+  posters:
+    title: 'Poster Presentations'
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
