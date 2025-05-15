@@ -11,7 +11,8 @@ paperurl: 'http://hilljua.github.io/files/HBM-45-e70086.pdf'
 citation: 'Hill JA, Korponay C, Salmeron BJ, Ross TJ, Janes AC. Catecholaminergic Modulation of Large-Scale Network Dynamics Is Tied to the Reconfiguration of Corticostriatal Connectivity. Hum Brain Mapp. 2024 Dec 1;45(17):e70086. doi: 10.1002/hbm.70086. PMID: 39665506; PMCID: PMC11635694.'
 ---
 
-Featured as NIDA Paper of the Month! Check it out here: https://irp.nida.nih.gov/featured-paper-march-2025/
+**Featured as NIDA Paper of the Month!** [Check it out here](https://irp.nida.nih.gov/featured-paper-march-2025/)
+
 
 Here, use pharmacological manipulation and two unique fMRI techniques to assess the brain: temporal dynamic engagement of cognitive networks & comprehensive profiles of cortical-striatal connectivity. 
 
