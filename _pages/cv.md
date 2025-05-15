@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Neurobiology, University of Wisconsin, Madison, 2022
-  *Certificates in Global Health, Gender and Women's Studies 
+  * Certificates in Global Health, Gender and Women's Studies
+  * Graduation with Distinction; Dean's List Fall 2018-Spring 2022
 
 Research Experience (in short)
 ======
@@ -52,6 +53,7 @@ Skills
   * FSL, afni, SPM
   * Large open access datasets
 * Spanish (intermediate)
+  * NIH Foundation for Advanced Education in the Sciences Microcredential in Spanish for Healthcare Providers
 * Trauma-informed techniques
 * Clinical Research
 
