@@ -14,7 +14,7 @@ Education
 * B.S. in Neurobiology, University of Wisconsin, Madison, 2022
   *Certificates in Global Health, Gender and Women's Studies 
 
-Research experience in short
+Research Experience (in short)
 ======
 * July 2022-Present: Postbaccalaureate Research Fellow
   * National Institute on Drug Abuse - Cognitive and Pharmacological Neuroimaging Unit
@@ -29,7 +29,7 @@ Research experience in short
   * 4W STREETS (Social Transformations to End Exploitation and Trafficking for Sex) at University of Wisconsin - Madison
 
 
-Clinical experience in short
+Clinical Experience (in short)
 ======
 * July 2022-Present: Postbaccalaureate Research Fellow
   * National Institute on Drug Abuse - Cognitive and Pharmacological Neuroimaging Unit
