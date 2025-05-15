@@ -27,7 +27,7 @@ Research Experience (in short)
   * Wisconsin National Primate Research Center: Levine-Abbott Lab
 
  * Summer 2020-Spring 2022: Research Intern
-  * 4W STREETS (Social Transformations to End Exploitation and Trafficking for Sex) at University of Wisconsin - Madison
+   * 4W STREETS (Social Transformations to End Exploitation and Trafficking for Sex) at University of Wisconsin - Madison
 
 
 Clinical Experience (in short)
