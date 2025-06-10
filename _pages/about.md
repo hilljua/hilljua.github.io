@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Hi there! I am a postbaccalaureate research fellow and an aspiring MD-PhD."
+title: "Welcome!"
+subtitle: "I am a postbaccalaureate research fellow studying the brain, behavior, and medicine."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 header:
   overlay_image: neuroart.jpg
-  overlay_filter: 0.3                      
+  overlay_filter: 0.3
+  caption: "Ramón y Cajal Inspired Self Portrait"                    
 ---
 ---
 ---
