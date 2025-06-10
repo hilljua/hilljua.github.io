@@ -23,10 +23,6 @@ css: "/assets/css/custom.css"
 .sidebar::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
 }
-/* Optional: Ensure sidebar content can still scroll */
-.sidebar {
-  overflow-y: auto;
-}
 </style>
 ---
 ---
