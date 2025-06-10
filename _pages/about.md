@@ -11,6 +11,11 @@ header:
   caption: "Ramón y Cajal Inspired Self Portrait"
 css: "/assets/css/custom.css"                  
 ---
+<style>
+.author__avatar {
+  display: none !important;
+}
+</style>
 ---
 ---
 Welcome to the site. I am a postbaccalaureate research fellow at the National Institute on Drug Abuse (NIDA) and an aspiring MD-PhD, applying in the 2026 application cycle.
