@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 header:
-  overlay_image: /assets/images/cover.jpg 
+  overlay_image: neuroart.jpg
   overlay_filter: 0.3                      
 ---
 ---
