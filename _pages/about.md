@@ -16,7 +16,7 @@ header:
 @media (min-width: 768px) {
   .sidebar {
   position: absolute;
-  top: 150px;
+  top: 200px;
   left: 20
   }
 }
