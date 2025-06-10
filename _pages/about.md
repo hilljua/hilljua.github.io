@@ -16,7 +16,7 @@ css: "/assets/css/custom.css"
 .sidebar {
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;
-  position: fixed;/* IE 10+ */
+  position: absolute;/* IE 10+ */
   top: 150px;
   left: 20;
 }
