@@ -12,17 +12,12 @@ header:
 css: "/assets/css/custom.css"                  
 ---
 <style>
-.author__avatar {
-  position: relative;
-  top: 150px;
-  margin-top: 0 !important;
-}
 /* Hide vertical scrollbar but keep scroll functionality */
 .sidebar {
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;
   position: fixed;/* IE 10+ */
-  top: 0;
+  top: 150px;
   left: 20;
 }
 .sidebar::-webkit-scrollbar {
