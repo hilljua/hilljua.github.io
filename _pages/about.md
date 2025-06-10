@@ -21,7 +21,7 @@ css: "/assets/css/custom.css"
   -ms-overflow-style: none;
   position: fixed;/* IE 10+ */
   top: 0;
-  left: 0;
+  left: 20;
 }
 .sidebar::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
