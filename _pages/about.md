@@ -15,6 +15,9 @@ css: "/assets/css/custom.css"
 .author__avatar {
   margin-top: 150px !important;
 }
+.sidebar {
+  display: none !important;
+}
 </style>
 ---
 ---
