@@ -12,15 +12,12 @@ header:
 ---
 
 <style>
+/* On mobile: reset avatar position */
+@media (min-width: 768px) {
   .sidebar {
   position: absolute;
   top: 150px;
   left: 20
-}
-/* On mobile: reset avatar position */
-@media (max-width: 768px) {
-  .sidebar {
-    position: relative;
   }
 }
 </style>
