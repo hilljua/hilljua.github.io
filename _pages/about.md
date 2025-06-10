@@ -17,7 +17,7 @@ css: "/assets/css/custom.css"
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;
   position: absolute;/* IE 10+ */
-  top: 150px;
+  top: 160px;
   left: 20;
 }
 .sidebar::-webkit-scrollbar {
