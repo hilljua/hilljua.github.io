@@ -8,7 +8,8 @@ redirect_from:
 header:
   overlay_image: neuroart.jpg
   overlay_filter: 0.3
-  caption: "Ramón y Cajal Inspired Self Portrait"                    
+  caption: "Ramón y Cajal Inspired Self Portrait"
+css: "/assets/css/custom.css"                  
 ---
 ---
 ---
