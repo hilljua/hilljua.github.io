@@ -13,7 +13,7 @@ css: "/assets/css/custom.css"
 ---
 <style>
 .author__avatar {
-  display: none !important;
+  margin-top: 150px !important;
 }
 </style>
 ---
