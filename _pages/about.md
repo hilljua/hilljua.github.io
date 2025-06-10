@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
-subtitle: "I am a postbaccalaureate research fellow studying the brain, behavior, and medicine."
+title: "Welcome! I am a postbaccalaureate research fellow studying the brain, behavior, and medicine."
 author_profile: true
 redirect_from: 
   - /about/
