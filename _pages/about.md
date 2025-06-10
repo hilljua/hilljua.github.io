@@ -9,6 +9,7 @@ header:
   overlay_image: neuroart.jpg
   overlay_filter: 0.3
   caption: "Ramón y Cajal Inspired Portrait"
+---
 
 <style>
   .sidebar {
@@ -23,7 +24,7 @@ header:
   }
 }
 </style>
-               
+
 ---
 ---
 ---
