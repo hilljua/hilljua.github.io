@@ -15,8 +15,17 @@ css: "/assets/css/custom.css"
 .author__avatar {
   margin-top: 150px !important;
 }
+/* Hide vertical scrollbar but keep scroll functionality */
 .sidebar {
-  display: none !important;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+}
+.sidebar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+/* Optional: Ensure sidebar content can still scroll */
+.sidebar {
+  overflow-y: auto;
 }
 </style>
 ---
