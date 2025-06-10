@@ -20,6 +20,8 @@ css: "/assets/css/custom.css"
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;
   position: fixed;/* IE 10+ */
+  top: 0;
+  left: 0;
 }
 .sidebar::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
