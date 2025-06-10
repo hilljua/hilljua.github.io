@@ -18,7 +18,8 @@ css: "/assets/css/custom.css"
 /* Hide vertical scrollbar but keep scroll functionality */
 .sidebar {
   scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none;  /* IE 10+ */
+  -ms-overflow-style: none;
+  position: fixed;/* IE 10+ */
 }
 .sidebar::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
