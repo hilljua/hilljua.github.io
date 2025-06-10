@@ -13,7 +13,9 @@ css: "/assets/css/custom.css"
 ---
 <style>
 .author__avatar {
-  margin-top: 150px !important;
+  position: relative;
+  top: 150px;
+  margin-top: 0 !important;
 }
 /* Hide vertical scrollbar but keep scroll functionality */
 .sidebar {
