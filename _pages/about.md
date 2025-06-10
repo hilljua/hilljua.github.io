@@ -13,7 +13,7 @@ header:
 
 <style>
 /* On mobile: reset avatar position */
-@media (min-width: 768px) {
+@media (min-width: 568px) {
   .sidebar {
   position: absolute;
   top: 200px;
