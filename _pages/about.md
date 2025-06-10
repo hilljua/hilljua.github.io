@@ -8,14 +8,14 @@ redirect_from:
 header:
   overlay_image: neuroart.jpg
   overlay_filter: 0.3
-  caption: "Ramón y Cajal Inspired Self Portrait"
+  caption: "Ramón y Cajal Inspired Portrait"
+
 <style>
-.sidebar {
+  .sidebar {
   position: absolute;
   top: 150px;
   left: 20
 }
-
 /* On mobile: reset avatar position */
 @media (max-width: 768px) {
   .sidebar {
