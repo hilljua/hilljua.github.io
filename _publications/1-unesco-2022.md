@@ -2,7 +2,7 @@
 title: "A Threat to Healing and a Barrier to Recovery: An Assessment of Health Impacts of Criminalization Through the Stages of Domestic Sex Trafficking"
 collection: publications
 category: manuscripts
-permalink: /publication/1-unesco-2022/
+permalink: /publication/1-unesco-2022
 excerpt: 'A common experience during sex trafficking is criminalization of victims, often for non-violent offenses related to survival. This paper demonstrates the tangible impact such crimalization has on health and recovery from trafficking.'
 date: 2022-07-01
 venue: 'UNESCO Working Paper Series'
