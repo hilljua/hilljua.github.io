@@ -8,6 +8,6 @@ date: '2025-10-02'
 hide_year: true
 venue: bioRxiv; Under Review at Biological Psychiatry Global Open Science
 #slidesurl:
-#paperurl: 'http://hilljua.github.io/files/xiao_2025_JAMAOPEN.pdf'
-#citation: 'Xiao X, Hammond CJ, Salmeron BJ, et al. Modification of Brain Connectome on Association Between Adverse Childhood Experiences and Development of Mental Disorders in Preadolescence. JAMA Netw Open. 2025;8(9):e2533136. doi:10.1001/jamanetworkopen.2025.33136'
+paperurl: 'http://hilljua.github.io/files/welsh_2025_medrxiv.pdf'
+citation: 'Welsh JC, Korponay C, Zhai T, Hill JA, Salmeron BJ, Frederick B deB, Janes AC. (Under Review at Biological Psychiatry Global Open Science). Systemic Physiological "Noise" in fMRI has Clinical Relevance'
 ---
