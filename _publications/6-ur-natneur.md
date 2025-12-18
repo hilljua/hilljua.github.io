@@ -9,5 +9,5 @@ hide_year: true
 venue: bioRxiv; In Submission at Nature Neuroscience
 #slidesurl:
 #paperurl: 'http://hilljua.github.io/files/xiao_2025_JAMAOPEN.pdf'
-#citation: 'Hill J, Zhai T, Korponay C, Welsh JC, Salmeron BJ, Ross T, Yang Y, Frederick B deB, Janes A. (In submission at Nature Neuroscience). Physiological Arousal as a Predominant Source of Individual Differences in Functional Brain Networks.'
+citation: 'Hill J, Zhai T, Korponay C, Welsh JC, Salmeron BJ, Ross T, Yang Y, Frederick B deB, Janes A. (In submission at Nature Neuroscience). Physiological Arousal as a Predominant Source of Individual Differences in Functional Brain Networks.'
 ---
