@@ -9,5 +9,5 @@ hide_year: true
 venue: bioRxiv; In Submission at Nature Neuroscience
 #slidesurl:
 #paperurl: 'http://hilljua.github.io/files/xiao_2025_JAMAOPEN.pdf'
-#citation: 'Xiao X, Hammond CJ, Salmeron BJ, et al. Modification of Brain Connectome on Association Between Adverse Childhood Experiences and Development of Mental Disorders in Preadolescence. JAMA Netw Open. 2025;8(9):e2533136. doi:10.1001/jamanetworkopen.2025.33136'
+#citation: 'Hill J, Zhai T, Korponay C, Welsh JC, Salmeron BJ, Ross T, Yang Y, Frederick B deB, Janes A. (In submission at Nature Neuroscience). Physiological Arousal as a Predominant Source of Individual Differences in Functional Brain Networks.'
 ---
